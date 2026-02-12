@@ -27,7 +27,7 @@
     
 }
 
-@media (min-width: 0px) and (max-width: 480px) {
+@media (max-width: 480px) {
     .container {
         border: 2px solid white;
         border-radius: 5px;
