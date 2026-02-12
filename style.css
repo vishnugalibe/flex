@@ -31,7 +31,7 @@
     .container {
         border: 2px solid white;
         border-radius: 5px;
-        box-shadow: 0px 0px 5px pink;
+        box-shadow: -1px 0px 5px 5px pink;
         width: 480px;
         height: 1400px;
 
